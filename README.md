@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi, I'm Alex, and I'm passionate about the world of cybersecurity.<br>I’m constantly learning and striving to improve my skills in areas like penetration testing and threat analysis.
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=OTNAS+or+SANTO+%3F)](https://git.io/typing-svg)
 
 # 💻 Tech Stack:
