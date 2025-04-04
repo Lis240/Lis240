@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Alex, and I'm passionate about the world of cybersecurity.<br>I’m constantly learning and striving to improve my skills in areas like penetration testing and threat analysis.
+Hi, I'm Alex, and I'm passionate about the world of cybersecurity.<br> I’m an aspiring cybersecurity professional with a strong interest in penetration testing and threat analysis. Currently, I am focused on developing my skills in offensive security, and I am particularly passionate about discovering vulnerabilities and securing systems. My goal is to become a skilled penetration tester and contribute to the improvement of overall security practices in organizations. I enjoy tackling real-world challenges through CTF competitions and building practical tools to simulate cyber-attacks. I'm always eager to learn new techniques, tools, and methodologies to stay ahead in the ever-evolving cybersecurity landscape.
 
 
 # 💻 Tech Stack:
