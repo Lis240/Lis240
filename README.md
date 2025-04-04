@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Alex, and I'm passionate about the world of cybersecurity.<br> I’m an aspiring cybersecurity professional with a strong interest in penetration testing and threat analysis. Currently, I am focused on developing my skills in offensive security, and I am particularly passionate about discovering vulnerabilities and securing systems. My goal is to become a skilled penetration tester and contribute to the improvement of overall security practices in organizations. I enjoy tackling real-world challenges through CTF competitions and building practical tools to simulate cyber-attacks. I'm always eager to learn new techniques, tools, and methodologies to stay ahead in the ever-evolving cybersecurity landscape.
+Hi, I'm Alex, and I'm passionate about the world of cybersecurity.<br>I’m constantly learning and striving to improve my skills in areas like penetration testing and threat analysis.
 
 
 # 💻 Tech Stack:
@@ -13,9 +13,7 @@ Hi, I'm Alex, and I'm passionate about the world of cybersecurity.<br> I’m an 
 ![](https://github-profile-trophy.vercel.app/?username=Lis240&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Lis240&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Lis240&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lis240&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
